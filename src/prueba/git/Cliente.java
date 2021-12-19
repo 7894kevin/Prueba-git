@@ -11,4 +11,5 @@ package prueba.git;
  */
 public class Cliente {
     private String direccion;
+    private String nombre;
 }
